@@ -1,0 +1,6 @@
+{
+  "name": "GIA SƯ TOÁN 9",
+  "description": "Ứng dụng ôn tập Toán 9 chuẩn bộ sách Kết nối tri thức với cuộc sống - Tác giả: Cô Phương Trang AI. Hỗ trợ ôn luyện theo từng bài, phân loại mức độ và trợ lý gia sư giải thích thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
